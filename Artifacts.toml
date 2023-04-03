@@ -1,0 +1,119 @@
+[[dmg2img]]
+arch = "aarch64"
+git-tree-sha1 = "5622bdcea949ff5dd35c4cd075f22c716c69b34a"
+os = "macos"
+
+    [[dmg2img.download]]
+    sha256 = "86f8d0676d7ac2ee101d15ea83b81ca116e400d3845aea595db85cef9dfa8c3e"
+    url = "https://github.com/JuliaBinaryWrappers/dmg2img_jll.jl/releases/download/dmg2img-v1.6.8+0/dmg2img.v1.6.8.aarch64-apple-darwin.tar.gz"
+[[dmg2img]]
+arch = "aarch64"
+git-tree-sha1 = "cf47151846bc3fbb2793736567bca15546e65754"
+libc = "glibc"
+os = "linux"
+
+    [[dmg2img.download]]
+    sha256 = "cf47db5879fe3684e757b0b129bd9459ed713c5b13bdca87b2555ee484f4a2ae"
+    url = "https://github.com/JuliaBinaryWrappers/dmg2img_jll.jl/releases/download/dmg2img-v1.6.8+0/dmg2img.v1.6.8.aarch64-linux-gnu.tar.gz"
+[[dmg2img]]
+arch = "aarch64"
+git-tree-sha1 = "bad2577bc26a8bf95eb5c8b84b9273d3e6f10870"
+libc = "musl"
+os = "linux"
+
+    [[dmg2img.download]]
+    sha256 = "c4acc80ae9b0a8ab95a4bff8bb50de1c6b85e0906e17ddfab1d9c65885ca87cd"
+    url = "https://github.com/JuliaBinaryWrappers/dmg2img_jll.jl/releases/download/dmg2img-v1.6.8+0/dmg2img.v1.6.8.aarch64-linux-musl.tar.gz"
+[[dmg2img]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "41f99203b498ac8206dfd68553bb8f8f7d525d5b"
+libc = "glibc"
+os = "linux"
+
+    [[dmg2img.download]]
+    sha256 = "0b9f43d66675bf5cf7514b63c036ea743e5ae58816b4726ff2cebff8dc489616"
+    url = "https://github.com/JuliaBinaryWrappers/dmg2img_jll.jl/releases/download/dmg2img-v1.6.8+0/dmg2img.v1.6.8.armv6l-linux-gnueabihf.tar.gz"
+[[dmg2img]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c06d44aa87ab9169adb56dcc6bcb6309ea4ddb8e"
+libc = "musl"
+os = "linux"
+
+    [[dmg2img.download]]
+    sha256 = "ac52647f7f765d052ce1aa69df13fcd279f68b14059ba0cbee39145695773843"
+    url = "https://github.com/JuliaBinaryWrappers/dmg2img_jll.jl/releases/download/dmg2img-v1.6.8+0/dmg2img.v1.6.8.armv6l-linux-musleabihf.tar.gz"
+[[dmg2img]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "aabe822255baf39d3f1360d2efdafed4770959fe"
+libc = "glibc"
+os = "linux"
+
+    [[dmg2img.download]]
+    sha256 = "373e5e6f92658b0b3fb67ba0789890b79c85ac88721882d52249170263177a8e"
+    url = "https://github.com/JuliaBinaryWrappers/dmg2img_jll.jl/releases/download/dmg2img-v1.6.8+0/dmg2img.v1.6.8.armv7l-linux-gnueabihf.tar.gz"
+[[dmg2img]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ec580c38c4b1ff4dd5972c92fcebd24a3969ee2d"
+libc = "musl"
+os = "linux"
+
+    [[dmg2img.download]]
+    sha256 = "3b8ab72e30b458608e5b70276f75846e8ebf58a4ebc74878a4c40d39fa6cbbf5"
+    url = "https://github.com/JuliaBinaryWrappers/dmg2img_jll.jl/releases/download/dmg2img-v1.6.8+0/dmg2img.v1.6.8.armv7l-linux-musleabihf.tar.gz"
+[[dmg2img]]
+arch = "i686"
+git-tree-sha1 = "38a6ee161c431c86a13696549ace591aa7082f86"
+libc = "glibc"
+os = "linux"
+
+    [[dmg2img.download]]
+    sha256 = "f199a35632944851776d9142fc7c3ecf6492d4727043743ea29f709ad678832b"
+    url = "https://github.com/JuliaBinaryWrappers/dmg2img_jll.jl/releases/download/dmg2img-v1.6.8+0/dmg2img.v1.6.8.i686-linux-gnu.tar.gz"
+[[dmg2img]]
+arch = "i686"
+git-tree-sha1 = "ff5e0e55fd691f1a3352245e0c732ea41155ba52"
+libc = "musl"
+os = "linux"
+
+    [[dmg2img.download]]
+    sha256 = "cf269403381015f5194cc5e963bbf0777a9e0761cd93e4e72e7b6a2689ba6b9c"
+    url = "https://github.com/JuliaBinaryWrappers/dmg2img_jll.jl/releases/download/dmg2img-v1.6.8+0/dmg2img.v1.6.8.i686-linux-musl.tar.gz"
+[[dmg2img]]
+arch = "powerpc64le"
+git-tree-sha1 = "94ea7af0f63bdc7fb4cae4149e1687810384cb4a"
+libc = "glibc"
+os = "linux"
+
+    [[dmg2img.download]]
+    sha256 = "75a2b33865240ce93ef6d60e7bb430097af6236e53034bc1c27dcb6a82fbd07b"
+    url = "https://github.com/JuliaBinaryWrappers/dmg2img_jll.jl/releases/download/dmg2img-v1.6.8+0/dmg2img.v1.6.8.powerpc64le-linux-gnu.tar.gz"
+[[dmg2img]]
+arch = "x86_64"
+git-tree-sha1 = "7e25eee81729358ff33cde7d7f639e320d7fc3b2"
+os = "macos"
+
+    [[dmg2img.download]]
+    sha256 = "5f52d3694b81c6b38921572af9a1d071ed54d31f101ef3362590877e1319f022"
+    url = "https://github.com/JuliaBinaryWrappers/dmg2img_jll.jl/releases/download/dmg2img-v1.6.8+0/dmg2img.v1.6.8.x86_64-apple-darwin.tar.gz"
+[[dmg2img]]
+arch = "x86_64"
+git-tree-sha1 = "6d85e1f935a75310019fba938844f591804232a8"
+libc = "glibc"
+os = "linux"
+
+    [[dmg2img.download]]
+    sha256 = "8ced91b6c9482e2062e136f0d88b9228c9222e4e13a58e951b2f57f2ef0473e0"
+    url = "https://github.com/JuliaBinaryWrappers/dmg2img_jll.jl/releases/download/dmg2img-v1.6.8+0/dmg2img.v1.6.8.x86_64-linux-gnu.tar.gz"
+[[dmg2img]]
+arch = "x86_64"
+git-tree-sha1 = "bd05a6ee9c7e0d2ac1a9803709c0642cb0de6ec5"
+libc = "musl"
+os = "linux"
+
+    [[dmg2img.download]]
+    sha256 = "46e7b02e2f2fec94b380526a2eaa73482dfd91caae7b025ad937e3ca79f1e24f"
+    url = "https://github.com/JuliaBinaryWrappers/dmg2img_jll.jl/releases/download/dmg2img-v1.6.8+0/dmg2img.v1.6.8.x86_64-linux-musl.tar.gz"
